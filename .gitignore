@@ -35,6 +35,9 @@ pnpm-debug.log*
 # MCP config with real tokens (use .mcp.example.json as template)
 .mcp.json
 
+# Claude Code local settings
+.claude/settings.local.json
+
 # typescript
 *.tsbuildinfo
 next-env.d.ts
